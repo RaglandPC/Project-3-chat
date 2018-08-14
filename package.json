@@ -2,10 +2,12 @@
   "name": "react-chat-tutorial",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://RaglandPC.github.io/Train-your-brain/",
   "dependencies": {
     "@pusher/chatkit": "^0.7.16",
     "cors": "^2.8.4",
     "express": "^4.16.3",
+    "gh-pages": "^1.2.0",
     "mysql": "^2.15.0",
     "mysql2": "^1.5.3",
     "passport": "^0.4.0",
